@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GBKPlaceholderEditText</string>
+
+    <!-- MainActivity -->
+    <string name="main_hint">Phone number</string>
+    <string name="main_placeholder">123456789</string>
+</resources>
