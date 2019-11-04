@@ -23,7 +23,7 @@ Simply add this code to the layout file, specify input type, allowed characters 
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
-<com.example.placeholderedittext.view.PlaceholderEditText
+<com.gbksoft.view.PlaceholderEditText
     android:id="@+id/edittext_main_number"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
