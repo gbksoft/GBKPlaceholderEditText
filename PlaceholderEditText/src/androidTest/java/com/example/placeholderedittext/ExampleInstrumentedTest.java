@@ -1,4 +1,4 @@
-package com.example.placeholderedittext;
+package com.gbksoft;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

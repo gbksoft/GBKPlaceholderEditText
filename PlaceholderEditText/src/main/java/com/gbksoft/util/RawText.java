@@ -1,4 +1,4 @@
-package com.example.placeholderedittext.util;
+package com.gbksoft.util;
 
 
 public class RawText {

@@ -1,4 +1,4 @@
-package com.example.placeholderedittext.view;
+package com.gbksoft.view;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -12,11 +12,11 @@ import android.text.style.ForegroundColorSpan;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.example.placeholderedittext.R;
-import com.example.placeholderedittext.listeners.PositionListener;
-import com.example.placeholderedittext.util.Distance;
-import com.example.placeholderedittext.util.RawText;
-import com.example.placeholderedittext.util.Util;
+import com.gbksoft.R;
+import com.gbksoft.listeners.PositionListener;
+import com.gbksoft.util.Distance;
+import com.gbksoft.util.RawText;
+import com.gbksoft.util.Util;
 
 import java.util.Objects;
 

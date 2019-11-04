@@ -1,6 +1,6 @@
-package com.example.placeholderedittext.util;
+package com.gbksoft.util;
 
-import com.example.placeholderedittext.listeners.PositionListener;
+import com.gbksoft.listeners.PositionListener;
 
 public final class Util {
 
