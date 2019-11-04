@@ -3,7 +3,7 @@
 ## Installation
 
 Add to the top level gradle file:
-```
+```groovy
 allprojects {
     repositories {
         ...
@@ -13,7 +13,7 @@ allprojects {
 ```
 
 Add to the app level gradle:
-```
+```groovy
 dependencies {
     implementation 'com.github.gbksoft:GBKPlaceholderEditText:v1.0.0'
 }
