@@ -1,4 +1,4 @@
-package com.example.placeholderedittext.listeners;
+package com.gbksoft.listeners;
 
 public interface PositionListener {
 

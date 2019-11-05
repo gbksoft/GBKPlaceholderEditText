@@ -3,7 +3,7 @@
 ## Installation
 
 Add to the top level gradle file:
-```
+```groovy
 allprojects {
     repositories {
         ...
@@ -13,7 +13,7 @@ allprojects {
 ```
 
 Add to the app level gradle:
-```
+```groovy
 dependencies {
     implementation 'com.github.gbksoft:GBKPlaceholderEditText:v1.0.0'
 }
@@ -23,7 +23,7 @@ Simply add this code to the layout file, specify input type, allowed characters 
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
-<com.example.placeholderedittext.view.PlaceholderEditText
+<com.gbksoft.view.PlaceholderEditText
     android:id="@+id/edittext_main_number"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"

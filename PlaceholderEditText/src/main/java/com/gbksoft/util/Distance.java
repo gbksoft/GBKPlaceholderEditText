@@ -1,4 +1,4 @@
-package com.example.placeholderedittext.util;
+package com.gbksoft.util;
 
 public class Distance {
 	private int start = -1;

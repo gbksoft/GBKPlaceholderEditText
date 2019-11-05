@@ -1,4 +1,4 @@
-package com.example.placeholderedittext;
+package com.gbksoft;
 
 import org.junit.Test;
 
