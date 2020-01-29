@@ -1,12 +1,10 @@
 package com.example.gbkplaceholderedittext;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
-import android.view.autofill.AutofillManager;
-import android.widget.AutoCompleteTextView;
 
-import com.example.placeholderedittext.view.PlaceholderEditText;
+import androidx.appcompat.app.AppCompatActivity;
+
+import com.gbksoft.view.PlaceholderEditText;
 
 public class MainActivity extends AppCompatActivity {
 
