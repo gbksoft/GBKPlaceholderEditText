@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -10,7 +10,7 @@
     android:layout_marginBottom="16dp"
     android:focusableInTouchMode="true">
 
-    <android.support.design.widget.TextInputLayout
+    <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/textinputlayout_main"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
@@ -22,7 +22,7 @@
         app:layout_constraintTop_toTopOf="parent"
         tools:targetApi="o">
 
-        <com.example.placeholderedittext.view.PlaceholderEditText
+        <com.gbksoft.view.PlaceholderEditText
             android:id="@+id/edittext_main_number"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -35,6 +35,6 @@
             app:template="+38(###)###-##-##"
             tools:targetApi="o" />
 
-    </android.support.design.widget.TextInputLayout>
+    </com.google.android.material.textfield.TextInputLayout>
 
-</android.support.constraint.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
